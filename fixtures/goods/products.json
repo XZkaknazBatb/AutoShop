@@ -1,0 +1,87 @@
+[
+  {
+    "model": "goods.products",
+    "pk": 1,
+    "fields": {
+      "name": "Двигатель ВАЗ-21083",
+      "slug": "carb-1",
+      "category": 3,
+      "image_small": "goods_images/carb1.jpg",
+      "image_big": "goods_images/carb1.jpg",
+      "description": "На автомобиль ВАЗ 2108, 21083, 2109, 21093, 21099, 2113, 2114, 2115",
+      "price": "87000.00",
+      "quantity": 2,
+      "advantages": "Надежность\r\nДоступная цена\r\nБыстрая доставка\r\nГарантия качества\r\nОригинальные запчасти\r\nПрофессиональная консультация",
+      "release_form": "1,5 л",
+      "packing": "69 л.с."
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 2,
+    "fields": {
+      "name": "Двигатель 2103",
+      "slug": "carb-2",
+      "category": 3,
+      "image_small": "goods_images/carb2.jpg",
+      "image_big": "goods_images/carb2.jpg",
+      "description": "На автомобиль Лада 2103, 2106, 2121, 21053, 2107",
+      "price": "97000.00",
+      "quantity": 15,
+      "advantages": "Надежность\r\nДоступная цена\r\nБыстрая доставка\r\nГарантия качества\r\nОригинальные запчасти\r\nПрофессиональная консультация",
+      "release_form": "1,4 л",
+      "packing": "72 л.с."
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 3,
+    "fields": {
+      "name": "Двигатель ВАЗ 21214",
+      "slug": "injector-1",
+      "category": 4,
+      "image_small": "goods_images/injector1.jpg",
+      "image_big": "goods_images/injector1.jpg",
+      "description": "На автомобиль ВАЗ Нива: 2121, 21213, 21214, 2131; Надежда 2120",
+      "price": "66500.00",
+      "quantity": 13,
+      "advantages": "Надежность\r\nДоступная цена\r\nБыстрая доставка\r\nГарантия качества\r\nОригинальные запчасти\r\nПрофессиональная консультация",
+      "release_form": "1,7 л",
+      "packing": "85 л.с."
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 4,
+    "fields": {
+      "name": "Двигатель Lada 21129 Х-Рей",
+      "slug": "injector-2",
+      "category": 4,
+      "image_small": "goods_images/injector2.jpg",
+      "image_big": "goods_images/injector2.jpg",
+      "description": "На автомобиль Лада Веста 2181, 2180; Лада Ларгус; Ладар Х-рей ",
+      "price": "90000.00",
+      "quantity": 27,
+      "advantages": "Надежность\r\nДоступная цена\r\nБыстрая доставка\r\nГарантия качества\r\nОригинальные запчасти\r\nПрофессиональная консультация",
+      "release_form": "1,8 л",
+      "packing": "87 л.с."
+    }
+  },
+  {
+    "model": "goods.products",
+    "pk": 5,
+    "fields": {
+      "name": "Двигатель Гранта ВАЗ-21116",
+      "slug": "injector-3",
+      "category": 4,
+      "image_small": "goods_images/injector3.jpg",
+      "image_big": "goods_images/injector3.jpg",
+      "description": "На автомобиль Приора: 2170 седан, 2172 хэтчбэк, универсал 2171",
+      "price": "99999.00",
+      "quantity": 10,
+      "advantages": "Надежность\r\nДоступная цена\r\nБыстрая доставка\r\nГарантия качества\r\nОригинальные запчасти\r\nПрофессиональная консультация",
+      "release_form": "1,596 л",
+      "packing": "90 л.с."
+    }
+  }
+]
