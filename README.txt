@@ -5,7 +5,7 @@ python -m venv venv
 venv\Scripts\activate
 Шаг 3. Установите зависимости
 pip install -r requirements.txt
-Шаг 4. Замените уникальный ключ в файле .env (находится в корне проекта)
+Шаг 4. Создайте в корне проекта файл .env по образу .env.example
 Шаг 5. Запустите миграции и загрузите данные в БД
 cd onlineFeedStore
 python manage.py migrate
